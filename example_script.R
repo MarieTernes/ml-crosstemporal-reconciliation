@@ -1,7 +1,7 @@
 #####################################################################################################################
 #-------------------- Example script  ------------------#
 # "Cross-Temporal Forecast Reconciliation at Digital Platforms with Machine Learning" by Jeroen Rombouts, Marie Ternes and Ines Wilms #
-# arXiv link: 
+# arXiv link: https://arxiv.org/abs/2402.09033
 #######################################################################################################################################
 
 rm(list=ls())
